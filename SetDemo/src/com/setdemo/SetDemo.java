@@ -1,5 +1,6 @@
 package com.setdemo;
 
+// Printing the pair of the socks. 
 import java.util.HashSet;
 import java.util.Set;
 
